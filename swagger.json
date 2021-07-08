@@ -218,47 +218,6 @@
         }
       }
     },
-    "/auth/update-password": {
-      "post": {
-        "summary": "update  password Agent",
-        "operationId": "update password Agent",
-        "tags": [
-          "auth"
-        ],
-        "parameters": [
-          {
-            "name": "data",
-            "in": "body",
-            "required": true,
-            "schema": {
-              "type": "object",
-              "required": [
-                "id",
-                "password"
-              ],
-              "properties": {
-                "id": {
-                  "type": "string",
-                  "description": "Agent's Id"
-                },
-                "password": {
-                  "type": "string",
-                  "description": "Agent new Password"
-                }
-              }
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "schema": {
-              "$ref": "#/definitions/customer"
-            }
-          }
-        }
-      }
-    },
     "/product/add-product": {
       "post": {
         "summary": "Add Product",
