@@ -5,10 +5,10 @@ var _ = require('lodash');
 // because more than 2 levels inheritance could lead to tight-coupling design and make everything more complicated
 class UsertModel {
   create(data) {
-    return new UserModel(data).save();
+    return new userModel(data).save();
   }
   getUserForLogin(agent) {
-    return UserModel.findOne({
+    return userModel.findOne({
         email: agent.email
       })
       .select('+password')
