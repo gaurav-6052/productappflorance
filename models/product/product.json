@@ -1,0 +1,351 @@
+[{
+  "productName": "Brown eggs",
+  "productCategory": "dairy",
+  "productDescription": "Raw organic brown eggs in a basket",
+  "productImage": "0.jpg",
+  "productPrice": 28.1,
+  "hashtags":["dairy"]
+}, {
+  "productName": "Sweet fresh stawberry",
+  "productCategory": "fruit",
+  "productDescription": "Sweet fresh stawberry on the wooden table",
+  "productImage": "1.jpg",
+  "productPrice": 29.45,
+  "hashtags":["fruit"]
+  
+}, {
+  "productName": "Asparagus",
+  "productCategory": "vegetable",
+  "productDescription": "Asparagus with ham on the wooden table",
+  "productImage": "2.jpg",
+  "productPrice": 18.95,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Green smoothie",
+  "productCategory": "dairy",
+  "productDescription": "Glass of green smoothie with quail egg's yolk, served with cocktail tube, green apple and baby spinach leaves over tin surface.",
+  "productImage": "3.jpg",
+  "productPrice": 17.68,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Raw legums",
+  "productCategory": "vegetable",
+  "productDescription": "Raw legums on the wooden table",
+  "productImage": "4.jpg",
+  "productPrice": 17.11,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Baking cake",
+  "productCategory": "dairy",
+  "productDescription": "Baking cake in rural kitchen - dough  recipe ingredients (eggs, flour, sugar) on vintage wooden table from above.",
+  "productImage": "5.jpg",
+  "productPrice": 11.14,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Pesto with basil",
+  "productCategory": "vegetable",
+  "productDescription": "Italian traditional pesto with basil, chesse and oil",
+  "productImage": "6.jpg",
+  "productPrice": 18.19,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Hazelnut in black ceramic bowl",
+  "productCategory": "vegetable",
+  "productDescription": "Hazelnut in black ceramic bowl on old wooden background. forest wealth. rustic style. selective focus",
+  "productImage": "7.jpg",
+  "productPrice": 27.35,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Fresh stawberry",
+  "productCategory": "fruit",
+  "productDescription": "Sweet fresh stawberry on the wooden table",
+  "productImage": "8.jpg",
+  "productPrice": 28.59,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Lemon and salt",
+  "productCategory": "fruit",
+  "productDescription": "Rosemary, lemon and salt on the table",
+  "productImage": "9.jpg",
+  "productPrice": 15.79,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Homemade bread",
+  "productCategory": "bakery",
+  "productDescription": "Homemade bread",
+  "productImage": "10.jpg",
+  "productPrice": 17.48,
+  "hashtags":["bakery"]
+}, {
+  "productName": "Legums",
+  "productCategory": "vegetable",
+  "productDescription": "Cooked legums on the wooden table",
+  "productImage": "11.jpg",
+  "productPrice": 14.77,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Fresh tomato",
+  "productCategory": "vegetable",
+  "productDescription": "Fresh tomato juice with basil",
+  "productImage": "12.jpg",
+  "productPrice": 16.3,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Healthy breakfast",
+  "productCategory": "fruit",
+  "productDescription": "Healthy breakfast set. rice cereal or porridge with berries and honey over rustic wood background",
+  "productImage": "13.jpg",
+  "productPrice": 13.02,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Green beans",
+  "productCategory": "vegetable",
+  "productDescription": "Raw organic green beans ready to eat",
+  "productImage": "14.jpg",
+  "productPrice": 28.79,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Baked stuffed portabello mushrooms",
+  "productCategory": "bakery",
+  "productDescription": "Homemade baked stuffed portabello mushrooms with spinach and cheese",
+  "productImage": "15.jpg",
+  "productPrice": 20.31,
+  "hashtags":["bakery"]
+}, {
+  "productName": "Strawberry jelly",
+  "productCategory": "fruit",
+  "productDescription": "Homemade organic strawberry jelly in a jar",
+  "productImage": "16.jpg",
+  "productPrice": 14.18
+}, {
+  "productName": "Pears juice",
+  "productCategory": "fruit",
+  "productDescription": "Fresh pears juice on the wooden table",
+  "productImage": "17.jpg",
+  "productPrice": 19.49,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Fresh pears",
+  "productCategory": "fruit",
+  "productDescription": "Sweet fresh pears on the wooden table",
+  "productImage": "18.jpg",
+  "productPrice": 15.12,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Caprese salad",
+  "productCategory": "vegetable",
+  "productDescription": "Homemade healthy caprese salad with tomato mozzarella and basil",
+  "productImage": "19.jpg",
+  "productPrice": 16.76,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Oranges",
+  "productCategory": "fruit",
+  "productDescription": "Orange popsicle ice cream bars made from fresh oranges.  a refreshing summer treat.",
+  "productImage": "20.jpg",
+  "productPrice": 21.48,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Vegan food",
+  "productCategory": "vegetable",
+  "productDescription": "Concept of vegan food",
+  "productImage": "21.jpg",
+  "productPrice": 29.66,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Breakfast with muesli",
+  "productCategory": "dairy",
+  "productDescription": "Concept of healthy breakfast with muesli",
+  "productImage": "22.jpg",
+  "productPrice": 22.7,
+  "hashtags":["dairy"]
+}, {
+  "productName": "Honey",
+  "productCategory": "bakery",
+  "productDescription": "Honey and honeycell on the table",
+  "productImage": "23.jpg",
+  "productPrice": 17.01,
+  "hashtags":["bakery"]
+}, {
+  "productName": "Breakfast with cottage",
+  "productCategory": "fruit",
+  "productDescription": "Healthy breakfast with cottage cheese and strawberry",
+  "productImage": "24.jpg",
+  "productPrice": 14.05,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Strawberry smoothie",
+  "productCategory": "fruit",
+  "productDescription": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over dark background",
+  "productImage": "25.jpg",
+  "productPrice": 28.86,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Strawberry and mint",
+  "productCategory": "fruit",
+  "productDescription": "Homemade muesli with strawberry and mint",
+  "productImage": "26.jpg",
+  "productPrice": 26.21,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Ricotta",
+  "productCategory": "dairy",
+  "productDescription": "Ricotta with berry and mint",
+  "productImage": "27.jpg",
+  "productPrice": 27.81,
+  "hashtags":["dairy"]
+}, {
+  "productName": "Cuban sandwiche",
+  "productCategory": "bakery",
+  "productDescription": "Homemade traditional cuban sandwiches with ham pork and cheese",
+  "productImage": "28.jpg",
+  "productPrice": 18.5,
+  "hashtags":["bakery"]
+}, {
+  "productName": "Granola",
+  "productCategory": "dairy",
+  "productDescription": "Glass jar with homemade granola and yogurt with nuts, raspberries and blackberries on wooden cutting board over white textile in day light",
+  "productImage": "29.jpg",
+  "productPrice": 29.97,
+  "hashtags":["dairy"]
+}, {
+  "productName": "Smoothie with chia seeds",
+  "productCategory": "fruit",
+  "productDescription": "Glass of red strawberry smoothie with chia seeds, served with retro cocktail tube, fresh mint and strawberries over wooden table",
+  "productImage": "30.jpg",
+  "productPrice": 25.26,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Yogurt",
+  "productCategory": "dairy",
+  "productDescription": "Homemade yogurt with raspberry and mint",
+  "productImage": "31.jpg",
+  "productPrice": 27.61,
+  "hashtags":["dairy"]
+}, {
+  "productName": "Sandwich with salad",
+  "productCategory": "vegetable",
+  "productDescription": "Vegan sandwich with salad, tomato and radish",
+  "productImage": "32.jpg",
+  "productPrice": 22.48,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Cherry",
+  "productCategory": "fruit",
+  "productDescription": "Cherry with sugar on old table",
+  "productImage": "33.jpg",
+  "productPrice": 14.35,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Raw asparagus",
+  "productCategory": "vegetable",
+  "productDescription": "Raw fresh asparagus salad with cheese and dressing",
+  "productImage": "34.jpg",
+  "productPrice": 22.97,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Corn",
+  "productCategory": "vegetable",
+  "productDescription": "Grilled corn on the cob with salt and butter",
+  "productImage": "35.jpg",
+  "productPrice": 13.55,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Vegan",
+  "productCategory": "vegan",
+  "productDescription": "Concept of healthy vegan eating",
+  "productImage": "36.jpg",
+  "productPrice": 28.96,
+  "hashtags":["Vegan"]
+}, {
+  "productName": "Fresh blueberries",
+  "productCategory": "fruit",
+  "productDescription": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
+  "productImage": "37.jpg",
+  "productPrice": 21.01,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Smashed avocado",
+  "productCategory": "fruit",
+  "productDescription": "Vegan sandwiches with smashed avocado, tomatoes and radish. top view",
+  "productImage": "38.jpg",
+  "productPrice": 25.88,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Italian ciabatta",
+  "productCategory": "bakery",
+  "productDescription": "Italian ciabatta bread cut in slices on wooden chopping board with herbs, garlic and olives over dark grunge backdrop, top view",
+  "productImage": "39.jpg",
+  "productPrice": 15.18,
+  "hashtags":["bakery"]
+}, {
+  "productName": "Rustic breakfast",
+  "productCategory": "dairy",
+  "productDescription": "Rustic healthy breakfast set. cooked buckwheat groats with milk and honey on dark grunge backdrop. top view, copy space",
+  "productImage": "40.jpg",
+  "productPrice": 21.32,
+  "hashtags":["dairy"]
+}, {
+  "productName": "Sliced lemons",
+  "productCategory": "fruit",
+  "productDescription": "Heap of whole and sliced lemons and limes with mint in vintage metal grid box over old wooden table with turquoise wooden background. dark rustic style.",
+  "productImage": "41.jpg",
+  "productPrice": 27.14,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Plums",
+  "productCategory": "fruit",
+  "productDescription": "Yellow and red sweet plums",
+  "productImage": "42.jpg",
+  "productPrice": 19.18,
+  "hashtags":["fruit"]
+}, {
+  "productName": "French fries",
+  "productCategory": "bakery",
+  "productDescription": "Homemade oven baked french fries with ketchup",
+  "productImage": "43.jpg",
+  "productPrice": 18.32,
+  "hashtags":["bakery"]
+}, {
+  "productName": "Strawberries",
+  "productCategory": "fruit",
+  "productDescription": "Healthy breakfast set. rice cereal or porridge with fresh strawberry, apricots, almond and honey over white rustic wood backdrop, top view, \u0000",
+  "productImage": "44.jpg",
+  "productPrice": 15.13,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Ground beef meat burger",
+  "productCategory": "meat",
+  "productDescription": "Raw ground beef meat burger steak cutlets with seasoning on vintage wooden boards, black background",
+  "productImage": "45.jpg",
+  "productPrice": 11.73,
+  "hashtags":["meat"]
+}, {
+  "productName": "Tomatoes",
+  "productCategory": "fruit",
+  "productDescription": "Organic tomatoes made with love",
+  "productImage": "46.jpg",
+  "productPrice": 26.03,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Basil",
+  "productCategory": "vegetable",
+  "productDescription": "Concept of vegan food with basil",
+  "productImage": "47.jpg",
+  "productPrice": 15.19,
+  "hashtags":["vegetable"]
+}, {
+  "productName": "Fruits bouquet",
+  "productCategory": "fruit",
+  "productDescription": "Abstract citrus fruits bouquet on blue background",
+  "productImage": "48.jpg",
+  "productPrice": 18.18,
+  "hashtags":["fruit"]
+}, {
+  "productName": "Peaches on branch",
+  "productCategory": "fruit",
+  "productDescription": "Peaches on branch with leaves and glasses with peach juice and limonade with ice cubes in aluminum tray over old metal table. dark rustic style. top view.",
+  "productImage": "49.jpg",
+  "productPrice": 25.62,
+  "hashtags":["fruit"]
+}]
