@@ -7,7 +7,7 @@
       "name": "Private"
     }
   },
-  "host": "https://productappflorance.herokuapp.com",
+  "host": "productappflorance.herokuapp.com",
   "basePath": "/",
   "schemes": [
     "https",
