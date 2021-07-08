@@ -7,9 +7,10 @@
       "name": "Private"
     }
   },
-  "host": "localhost:8081",
+  "host": "https://productappflorance.herokuapp.com",
   "basePath": "/",
   "schemes": [
+    "https",
     "http"
   ],
   "consumes": [
